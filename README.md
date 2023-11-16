@@ -20,5 +20,5 @@
 
   
 [![Gmail Badge](https://img.shields.io/badge/-j.de.s.r.25@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:j.de.s.r.25@gmail.com)](mailto:j.de.s.r.25@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/axelemu_ffs/)](https://www.instagram.com/axelemu_ffs/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/devilseyexx/)](https://www.instagram.com/devilseyexx/)
   
